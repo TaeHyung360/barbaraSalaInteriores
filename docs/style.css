@@ -140,6 +140,27 @@
         margin: 0;
         }
 
+        h1 {
+          font-size: 50px;
+        }
+
+        .contact-info {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          padding-bottom: 2rem;
+          }
+
+        .contact-info p {
+          margin-right: 15px;
+          font-weight: bold;
+          font-size: 40px;
+          }
+
+        .contact-info a i {
+          font-size: 40px;
+          }
+
         img {
           width: 800px;
           height: 800px;
