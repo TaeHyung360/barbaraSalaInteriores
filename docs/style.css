@@ -128,7 +128,8 @@
     padding: 10px;
   }
 
-    /* Estilos específicos para dispositivos móviles */
+    /* Estilos específicos para dispositivos móviles  @media screen and (max-width: 480px), (max-device-width: 480px)*/
+
     @media (max-device-width: 480px) {
         .column-gallery {
         flex-direction: column;
