@@ -138,4 +138,10 @@
         .column {
         margin: 0;
         }
+
+        img {
+          width: 800px;
+          height: 800px;
+        }
+        
     }
