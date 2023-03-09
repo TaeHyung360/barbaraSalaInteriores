@@ -129,7 +129,7 @@
   }
 
     /* Estilos específicos para dispositivos móviles */
-    @media (max-width: 480px) {
+    @media (max-device-width: 480px) {
         .column-gallery {
         flex-direction: column;
         align-items: center;
