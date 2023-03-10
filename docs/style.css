@@ -165,5 +165,14 @@
           width: 800px;
           height: 800px;
         }
+
+        .img-overlay {
+          width: 500px;
+          height: 500px;
+        }
+        
+        .img-text {
+          font-size: 23px;
+        }
         
     }
