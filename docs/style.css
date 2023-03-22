@@ -9,6 +9,7 @@
     background-color: #fafafa;
   }
 
+
   header {
     background-color: #333;
     color: #fff;
@@ -119,7 +120,10 @@
     transform: scale(1.05);
   }
 
-    /* Estilos específicos para el footer */
+  /* Estilo específicos para el contacto */
+  
+  
+  /* Estilos específicos para el footer */
 
   footer {
     background-color: #333;
