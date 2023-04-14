@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: sans-serif;
+    background-color: #fafafa;
+  }
+
+
+  header {
+    background-color: #194293;
+    color: #fff;
+    text-align:center;
+    padding: 10px;
+    }
+
+    .inicio {
+            background-color: beige;
+    }
+    .productos{
+        background-color: red;
+    }
+
+    footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+      }
